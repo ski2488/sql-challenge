@@ -1,3 +1,5 @@
+#https://app.quickdatabasediagrams.com/#/d/MjSo6g
+
 departments
 -
 dept_no PK varchar(4)
